@@ -1,0 +1,30 @@
+h2.intro {
+  font-family: monospace;
+  color: brown;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+  font-size: 15px;
+  font-family: cursive;
+  line-height: 30px;
+}
+
+img.intro {
+  width: 370px;
+  height: 420px;
+}
+
+p {
+  width: 80%;
+  text-indent: 20px;
+  font-family: verdana;
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: grey;
+}
