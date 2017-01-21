@@ -1,19 +1,10 @@
-h2.intro {
+.intro {
   font-family: monospace;
   color: brown;
-}
-
-p.intro {
   width: 50%;
   font-style: italic;
   font-size: 15px;
-  font-family: cursive;
   line-height: 30px;
-}
-
-img.intro {
-  width: 370px;
-  height: 420px;
 }
 
 p {
